@@ -1,0 +1,6 @@
+@GR.Data_HostAddress = http://localhost:5153
+
+GET {{GR.Data_HostAddress}}/weatherforecast/
+Accept: application/json
+
+###

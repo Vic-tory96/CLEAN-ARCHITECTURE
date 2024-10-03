@@ -1,0 +1,6 @@
+# Ignore Visual Studio folders and files
+.vs/
+*.suo
+*.user
+*.userprefs
+*.sln.ide
